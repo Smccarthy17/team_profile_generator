@@ -33,4 +33,6 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 
+
+
 <img width="847" alt="image" src="https://user-images.githubusercontent.com/90977936/185768170-e36a8ec6-7b5a-476e-9b86-7cba36b5ff42.png">
