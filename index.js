@@ -176,5 +176,28 @@ const addEmployee = () => {
         }
     })
 };
+// To generate the HTML 
+const writeFile = data => {
+    fs.writeFile('./dist/index.html', data, err => {
+        if (err) {
+            console.log(err);
+            return;
+        } else {
+            console.log("You have successfully created the team profile.")
+        }
+    })
+}; 
+
+addManager()
+  .then(addEmployee)
+  .then(teamArray => {
+    return generateHTML(teamArray);
+  })
+  .then(pageHTML => {
+    return writeFile(pageHTML);
+  })
+  .catch(err => {
+ console.log(err);
+  });
 
 
