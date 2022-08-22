@@ -1,4 +1,4 @@
-# team_profile_generator
+# Team Profile Generator
 
 ## Description:
 
@@ -43,7 +43,7 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-Study Group, Susan, Chris P., Jackson, Sarah, Aaron
+Study Group, Susan, Chris P., Jackson, Sarah, Ricky, Aaron
 
 ## Video Walkthrough
 
