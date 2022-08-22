@@ -4,7 +4,7 @@
 
 :root {
     --primary: darkorange;
-    --secondary: orchid;
+    --secondary: rgb(118, 10, 114);
     --background: gray;
     --text: black;
 }
