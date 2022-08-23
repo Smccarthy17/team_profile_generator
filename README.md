@@ -46,7 +46,11 @@ THEN I exit the application, and the HTML is generated
 Study Group, Susan, Chris P., Jackson, Sarah, Ricky, Aaron
 
 ## Video Walkthrough
+https://drive.google.com/file/d/1W80nM1T8b-5OOIDGC4D1zLGKi7KsWOT6/view
 
 ## Screenshot
 
 <img width="847" alt="image" src="https://user-images.githubusercontent.com/90977936/185768170-e36a8ec6-7b5a-476e-9b86-7cba36b5ff42.png">
+
+<img width="1405" alt="image" src="https://user-images.githubusercontent.com/90977936/186073725-5618602a-4305-4376-9cd1-aacdccd0d565.png">
+
